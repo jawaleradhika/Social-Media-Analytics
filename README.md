@@ -1,2 +1,13 @@
-# Social-Media-Analytics
-Social Media Analytics is a SQL-based project that analyzes social media data to identify user engagement, popular posts, trending hashtags, and influencer performance. It uses SQL queries to extract meaningful insights and understand social media activity patterns.  **Tools Used:** MySQL, SQL, PowerPoint
+# Social Media Analytics
+
+A SQL-based project analyzing social media engagement, popular posts, trending hashtags, and influencer performance.
+
+## Tools Used
+- MySQL
+- SQL
+- PowerPoint
+
+## Project Files
+- SQL analysis queries
+- Social media dataset
+- Project presentation
